@@ -1,0 +1,208 @@
+{
+  "main": {
+    "id": "3ce3d05cd7dd0a6b",
+    "type": "split",
+    "children": [
+      {
+        "id": "a601ce5ce66ea6ca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ac2d601254acfb99",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/threads/etch/intro.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "intro"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0dfbd3e6b0b06db4",
+    "type": "split",
+    "children": [
+      {
+        "id": "2986ff9cd97abfc9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4121419ce55c440d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "d634fe89f0262d28",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "1cdcff1a9b08d6c8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "83e1fc67e869b459",
+    "type": "split",
+    "children": [
+      {
+        "id": "ca13c816a0120aff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eb5153823363a963",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "237418f15f7716e9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Untitled.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Untitled"
+            }
+          },
+          {
+            "id": "8fcff959df3166a7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "50b2db52a3693b11",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "docs/threads/etch/intro.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of intro"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "4121419ce55c440d",
+  "lastOpenFiles": [
+    "docs/threads/etch/r42.jpg",
+    "docs/threads/etch/r42.jpg.crdownload",
+    "docs/threads/meta/next-js.md",
+    "docs/threads/etch/intro.md",
+    "docs/threads/etch",
+    "docs/threads/figma-esque/extensions/how.md",
+    "docs/shorts/wit worlds.md",
+    "docs/threads/figma-esque/compute/compute-shaders.md",
+    "docs/threads/figma-esque/compute/async-tasks.md",
+    "docs/threads/figma-esque/algorithms/wfc.md",
+    "docs/shorts/trait first design.md",
+    "docs/shorts/figma-make.md",
+    "docs/shorts/channels.md",
+    "docs/vault",
+    "docs/threads/figma-esque/model-context-protocol/intro.md",
+    "Untitled.canvas",
+    "docs/threads/figma-esque/meta/self-documentation.md",
+    "docs/threads/figma-esque/server/intro.md",
+    "docs/threads/meta",
+    "docs/threads/figma-esque/surface/intro.md",
+    "docs/threads/figma-esque/extensions",
+    "docs/threads/figma-esque/intro/why.md",
+    "docs/threads/figma-esque/compute/burn-rs.md",
+    "docs/threads/figma-esque/server/collaborative/liveblocks.md",
+    "docs/threads/figma-esque/meta",
+    "docs/threads/meta",
+    "docs/threads/figma-esque/server",
+    "docs/threads/figma-esque/cli",
+    "docs/threads/figma-esque/js-rust-interop/wit-bindgen.md",
+    "docs/threads/figma-esque/surface/ux/overview.md",
+    "docs/threads/figma-esque/shell/overview.md",
+    "docs/threads/figma-esque/model-context-protocol",
+    "docs/threads/figma-esque/intro/analogue-applications.md",
+    "docs/threads/figma-esque/intro/tech-stack.md",
+    "docs/threads/figma-esque/js-rust-interop/wasm-bindgen.md",
+    "docs/threads/figma-esque/Untitled.md",
+    "docs/threads/figma-esque/apps/overview.md"
+  ]
+}
